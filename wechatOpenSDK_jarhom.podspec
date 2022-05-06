@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-  spec.name = "wechatOpenSDK_yxr"
+  spec.name = "wechatOpenSDK_jarhom"
   spec.version = "1.9.2"
   spec.summary = "wechatOpenSDK1.9.2_NoPay"
   spec.description = <<-DESC
